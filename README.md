@@ -1,4 +1,6 @@
 # My favorites 
+## git github excercise
+
 1. local git repo 생성
 - empty file commit 
 
