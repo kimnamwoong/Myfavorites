@@ -1,0 +1,5 @@
+My favorite food is 
+Chicken,
+pizza,
+hamburger,
+kimchi, ...etc
