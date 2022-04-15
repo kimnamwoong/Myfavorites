@@ -3,3 +3,7 @@ Chicken,
 pizza,
 hamburger,
 kimchi, ...etc
+My favorite movies is 
+신비한 동물들과 덤블도어의 비밀,
+앵커,
+수퍼 소닉2,
